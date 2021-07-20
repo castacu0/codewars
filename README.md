@@ -1,1 +1,3 @@
-# codewars
+# Code Wars 🏮
+
+Online challenges 💻
