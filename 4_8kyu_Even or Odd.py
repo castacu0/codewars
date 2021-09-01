@@ -13,7 +13,7 @@ even_or_odd(17)
 #Better Practices
 #1st
 def even_or_odd(number):
-    return 'Odd' if number % 2 else 'Even'
+    return 'Even' if number % 2 else 'Odd'
 
 
 #2nd 👑 Clever
